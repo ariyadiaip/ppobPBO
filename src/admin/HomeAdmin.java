@@ -5,7 +5,6 @@
  */
 package admin;
 
-import com.sun.istack.internal.logging.Logger;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.ResultSet;
@@ -18,7 +17,6 @@ import java.util.logging.Level;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import main.Login;
-import org.codehaus.groovy.tools.shell.util.SimpleCompletor;
 
 /**
  *
